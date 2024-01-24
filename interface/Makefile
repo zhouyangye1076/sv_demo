@@ -15,4 +15,3 @@ wave:
 
 clean:
 	rm -rf build
-
